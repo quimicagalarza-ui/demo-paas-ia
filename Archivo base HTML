@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Mi primer sitio Web con Cristian Arispe</title>
+  <title>Mi primer sitio Web con Cristian Arispe---- !</title>
   <style>
     :root{--bg:#f7fafc;--card:#ffffff;--accent:#0b5fff;--muted:#6b7280}
     html,body{height:100%;margin:0;font-family:Inter, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;}
